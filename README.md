@@ -15,7 +15,7 @@ This Password Manager is a simple graphical user interface (GUI) application bui
 
 ### Prerequisites
 
-- Python installed (version 3.x recommended)
+- Python installed (version 3.11.0 recommended)
 
 ### Installation
 
