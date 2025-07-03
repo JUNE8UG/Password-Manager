@@ -22,7 +22,7 @@ This Password Manager is a simple graphical user interface (GUI) application bui
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-manager.git
+   git clone https://github.com/JUNE8UG/password-manager.git
    ```
 
 2. Navigate to the project directory:
